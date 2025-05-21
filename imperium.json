@@ -412,12 +412,12 @@
             "name": "Airbus a350-900",
             "liveries": [
                 {
-                    "name": "Imperium Airways",
+                    "name": "Imperium Airways A359 Livery",
                     "texture": [
                         "/models/aircraft/premium/a350/specular.jpg",
                         "https://i.ibb.co/DPr0NLzh/A350-900-Imperium-Airways-Livery.png"
                     ],
-                    "credits": "MXHL"
+                    "credits": "geofsflightvideogroupyt"
                 }
             ],
             "labels": [
