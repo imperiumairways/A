@@ -412,12 +412,12 @@
             "name": "Airbus a350-900",
             "liveries": [
                 {
-                    "name": "Imperium Airways",
+                    "name": "Imperium Airways A350-941",
                     "texture": [
                         "/models/aircraft/premium/a350/specular.jpg",
                         "https://i.ibb.co/DPr0NLzh/A350-900-Imperium-Airways-Livery.png"
                     ],
-                    "credits": "MXHL"
+                    "credits": "GFVG-YT[10thGeo-Owner]"
                 }
             ],
             "labels": [
@@ -468,6 +468,14 @@
         "25": {
             "name": "Boeing b777-300ER",
             "liveries": [
+                {
+                    "name": "Imperium Airways Boeing 777-300ER",
+                    "texture": [
+                        "https://ibb.co/39z437Vk",
+                        "https://i.ibb.co/PGGrrF94/777-Finalized.png"
+                    ],
+                    "credits": "GFVG-YT[10thGeo-Owner]"
+                }
             ],
             "labels": [
                 "Specular shader",
