@@ -530,6 +530,13 @@
         "5073": {
             "name": "Bombardier Learjet45",
             "liveries": [
+                {
+                    "name": "Learjet Executive",
+                    "texture": [
+                        "https://i.ibb.co/RwVhv5Y/Lear-Jet-Livery.png"
+                    ],
+                    "credits": "MXHL[CEO][IMP]"
+                }
             ],
             "labels": [
                 "Texture"
