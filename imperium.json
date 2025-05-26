@@ -72,6 +72,14 @@
         "10": {
             "name": "Airbus a380-800",
             "liveries": [
+                {
+                    "name": "Imperium Airways A380-800",
+                    "texture": [
+                        "/models/aircraft/premium/a380/specular.jpg",
+                        "https://i.ibb.co/Vs1DbGV/A380-Livery-Finalized.png"
+                    ],
+                    "credits": "GFVG-YT[10thGeo-Owner]"
+                }
             ],
             "labels": [
                 "Specular shader",
