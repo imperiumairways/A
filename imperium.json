@@ -73,11 +73,11 @@
             "name": "Airbus a380-800",
             "liveries": [
                 {
-                    "name": "Imperium Airways A380-800",
+                    "name": "Coming Soon",
                     "texture": [
                         "/models/aircraft/premium/a380/normal.jpg",
                         "/models/aircraft/premium/a380/specular.jpg",
-                        "https://i.ibb.co/FG2x2PN/A380-Livery-Finalized.png"
+                        "Coming Soon"
                     ],
                     "credits": "GFVG-YT[10thGeo-Owner]"
                 }
